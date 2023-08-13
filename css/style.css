@@ -452,7 +452,7 @@ h2 {
 }
 
 .main {
-  background: url(../img/Group1.png) no-repeat top right;
+  background: url(../img/Group1-min.png) no-repeat top right;
   background-size: 1294px 882px;
   padding: 0 120px;
   margin-bottom: 122px;
@@ -491,7 +491,7 @@ h2 {
 .about {
   margin: 0 88px 107px;
   padding: 6px 32px 32px;
-  background: url(../img/Group2.png) no-repeat center;
+  background: url(../img/Group2-min.png) no-repeat center;
   background-size: cover;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -688,7 +688,7 @@ h2 {
   width: 100%;
   padding: 68px 120px 80px;
   margin-bottom: 60px;
-  background: url(../img/Group3.png) no-repeat top left;
+  background: url(../img/Group3-min.png) no-repeat top left;
   position: relative;
 }
 .catalog > h2 {
@@ -868,7 +868,7 @@ h2 {
 
 .certificates {
   padding: 0 120px 127px;
-  background: url(../img/Group4.png) no-repeat bottom left;
+  background: url(../img/Group4-min.png) no-repeat bottom left;
 }
 .certificates h2 {
   margin-bottom: 60px;
@@ -982,7 +982,7 @@ h2 {
   padding: 134px 0 0 120px;
   margin-right: 58px;
   margin-bottom: 87px;
-  background: url(../img/Group5.png) no-repeat top right;
+  background: url(../img/Group5-min.png) no-repeat top right;
 }
 .contacts__info {
   width: 590px;
